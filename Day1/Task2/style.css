@@ -88,7 +88,7 @@ body::before {
     color: #FFC43D;
     margin: 100px 0 40px 0;
     line-height: 1.1;
-    text-shadow: 0 2px 16px rgba(0,0,0,0.4);
+    text-shadow: 0 2px 16px rgba(0, 0, 0, 0.4);
 }
 
 .menu-btn {
@@ -136,13 +136,15 @@ body::before {
     .main-heading {
         font-size: 40px;
     }
+
     .header {
         flex-direction: column;
         align-items: flex-start;
         padding: 24px 20px 0 20px;
     }
+
     .scroll-arrow {
         right: 20px;
         bottom: 20px;
     }
-} 
+}
